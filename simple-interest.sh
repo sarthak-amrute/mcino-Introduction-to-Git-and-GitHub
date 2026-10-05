@@ -17,3 +17,4 @@ s=$((p * r * t / 100))
 
 echo "The simple interest is: "
 echo $s
+# minor typo fix
